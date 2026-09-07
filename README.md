@@ -253,3 +253,6 @@ This repository serves as the official landing page for AnyDVD. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AnyDVD today!**
+
+---
+**Last updated:** 2026-09-07 19:05:17 UTC
