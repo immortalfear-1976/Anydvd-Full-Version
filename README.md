@@ -255,4 +255,4 @@ This repository serves as the official landing page for AnyDVD. The software is 
 **Get the most recent version of AnyDVD today!**
 
 ---
-**Last updated:** 2026-10-25 14:14:59 UTC
+**Last updated:** 2026-10-25 18:19:51 UTC
